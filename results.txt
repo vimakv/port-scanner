@@ -1,0 +1,18 @@
+[OPEN] Port 22 (ssh) - SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+[OPEN] Port 80 (http) - HTTP/1.1 400 Bad Request
+Date: Thu, 30 Apr 2026 05:02:49 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Content-Length: 306
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+</p>
+<hr>
+<address>Apache/2.4.7 (Ubuntu) Server at scanme.nmap.org Port 80</address>
+</body></html>
